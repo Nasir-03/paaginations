@@ -52,15 +52,3 @@ function App() {
 }
 
 export default App;
-
-
-// import React from 'react'
-// import Add from '../Add'
-
-// export default function App() {
-//   return (
-//     <div>
-//       <Add />
-//     </div>
-//   )
-// }
